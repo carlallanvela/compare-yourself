@@ -1,5 +1,5 @@
 # compare-yourself 
-A web application created using AWS Services like API Gateway, Lambda, Dynamo DB for back end.
+A web application created using AWS Services like API Gateway, Lambda, DynamoDB for back end.
 
 # DEV:
 Used API Gateway to configure resources that connects to backend logic created using AWS Lambda.
