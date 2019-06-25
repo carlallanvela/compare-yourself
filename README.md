@@ -1,4 +1,3 @@
-# TODO
 # compare-yourself 
 A web application created using AWS Services like API Gateway, Lambda, Dynamo DB for back end.
 
