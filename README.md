@@ -1,4 +1,4 @@
-# compare-yourself 
+# compare-yourself [IN PROGRESS]
 A web application created using AWS Services like API Gateway, Lambda, DynamoDB for back end.
 
 # DEV:
